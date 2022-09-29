@@ -1,2 +1,7 @@
-# shift-function-project
-R scripts for generating various distributions, Harell-Davis quantile estimator and plot construction.
+# Shift Function project
+
+Информация о репозитории
+1. В папке `data` лежат `.csv` файлы, в которых хранятся сгенерированные распределения и данные для построения графиков
+2. В файле `script.R` лежит код для всего на свете: функция для Harrell-Davis оценки квантилей, функции сдвига, подсчет теоретических квантилей
+3. В директории `img` хранятся графики для отчета
+4. Отчет о работе лежит в папке `report`
